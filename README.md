@@ -1,5 +1,5 @@
 # boycott-IE
-Forked!!!
+Forked from https://github.com/boycott-ie/boycott-ie
 
 ## English
 This is the first open source project in the world that supports 109 languages to prompt users to stop using IE.https://boycott-ie.github.io/boycott-ie
